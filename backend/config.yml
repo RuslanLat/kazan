@@ -1,0 +1,8 @@
+session:
+  key: CaY5iCkYtN7DqXdiYK1BvmGrQuaSA4Tl4bEk9my0jc0=
+database:
+  host: dpg-cqu9p1qj1k6c73ds2j90-a
+  port: 5432
+  user: admin
+  password: NZIAk2TzN7TTYLE6XfnN2L8GcBr5Goih
+  database: cards_yz8k
