@@ -1,0 +1,7 @@
+aiohttp
+aiohttp-apispec
+aiohttp-cors
+asyncpg
+marshmallow
+PyYAML
+SQLAlchemy

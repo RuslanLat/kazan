@@ -3,7 +3,6 @@ frontend
 venv
 *.ipynb
 render.yaml
-requirements.txt
 *.pptx
 *.pdf
 backend/alembic.ini
